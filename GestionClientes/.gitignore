@@ -1,0 +1,24 @@
+# Ignorar archivos binarios generados por Visual Studio
+[Bb]in/
+[Oo]bj/
+
+# Ignorar archivos de configuración generados por Visual Studio
+*.user
+*.suo
+*.sln.docstates
+
+# Ignorar archivos de caché y de respaldo
+*.log
+*.vspscc
+*.vssscc
+*.~vs
+*.psess
+*.chk
+*.crash
+*.dbmdl
+*.dbproj.user
+*.scc
+
+# Ignorar archivos de publicación
+*.Publish.xml
+*.pfx
